@@ -14,12 +14,44 @@
 **메인페이지 + 로그인**
 <br>
 ![제목 없는 동영상 - Clipchamp로 제작](https://github.com/user-attachments/assets/8900c988-f203-40c7-a2d5-fedf3cbc8334)
+
 <br><br>
 **회원 데일리 차트 작성**
 <br>
-![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/user-attachments/assets/910f01fb-842e-4717-8234-21a4902543ce.gif)
+![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/user-attachments/assets/910f01fb-842e-4717-8234-21a4902543ce)
 <br><br>
 **음성 파일 업로드 및 텍스트 추출& 요약**
+<br>
+![제목 없는 동영상 - Clipchamp로 제작 (3)](https://github.com/user-attachments/assets/9869d58a-0b4c-4f67-ab0e-79a635236d2f)
+![제목 없는 동영상 - Clipchamp로 제작 (4)](https://github.com/user-attachments/assets/f6b01e07-f3a9-4d6e-a569-80ade3a7fd90)
+
+## ScreenShoot
+**메인페이지 + 로그인**
+<br>
+<img src="https://github.com/user-attachments/assets/f87e113d-d82c-450f-9d18-3055b05c056c" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/7714b38d-fdeb-40ef-b008-7c139f413dee" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/0b1bbb6c-624b-42f8-a1c0-20018793c05f" style="width: 20%;">
+<br><br>
+**회원 데일리 차트 작성**
+<br>
+<img src="https://github.com/user-attachments/assets/1c175d92-6b71-4521-8825-33e0222007b9" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/097824c6-0fd1-4816-ae64-a971e5d4dedd" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/fd51eb6a-f581-4e5f-9cfa-e3a3ee6629ba" style="width: 20%;">
+<br><br>
+**회원 데일리 차트 작성**
+<br>
+<img src="https://github.com/user-attachments/assets/b7777c1e-5fb3-44be-a99a-44fd71b93564" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/bfc929d2-8479-4f01-8758-5d264c95c016" style="width: 20%;">
+<br><br>
+**음성 파일 업로드 및 텍스트 추출& 요약**
+<br>
+<img src="https://github.com/user-attachments/assets/394174ad-a876-47a8-8c3a-0bf50f5f46e2" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/dbf02e39-a2cb-441c-b4c1-82349ff477f6" alt="localhost_5173_member_summation_file" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/798f9179-9ebf-4691-bd27-38722fffa7d5" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/4fd4afee-377c-42dd-9a00-7c8f690aab8a" style="width: 20%;">
+
+
+
 
 <br><br>
 ## Skill 
