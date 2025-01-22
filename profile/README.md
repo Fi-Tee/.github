@@ -13,17 +13,16 @@
 ## Demo
 **메인페이지 + 로그인**
 <br>
-![제목 없는 동영상 - Clipchamp로 제작](https://github.com/user-attachments/assets/8900c988-f203-40c7-a2d5-fedf3cbc8334)
-
+![제목 없는 동영상 - Clipchamp로 제작 (8) (1)](https://github.com/user-attachments/assets/77e54579-d709-4c4f-a516-e8d8e8cf3fe5)
 <br><br>
 **회원 데일리 차트 작성**
 <br>
-![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/user-attachments/assets/910f01fb-842e-4717-8234-21a4902543ce)
+![제목 없는 동영상 - Clipchamp로 제작 (2) (1)](https://github.com/user-attachments/assets/21ead504-1bbb-425d-984e-8e6c8a201822)
 <br><br>
 **음성 파일 업로드 및 텍스트 추출& 요약**
 <br>
-![제목 없는 동영상 - Clipchamp로 제작 (3)](https://github.com/user-attachments/assets/9869d58a-0b4c-4f67-ab0e-79a635236d2f)
-![제목 없는 동영상 - Clipchamp로 제작 (4)](https://github.com/user-attachments/assets/f6b01e07-f3a9-4d6e-a569-80ade3a7fd90)
+![제목 없는 동영상 - Clipchamp로 제작 (4) (1)](https://github.com/user-attachments/assets/9a6863ad-01ad-420e-8865-fb1d975885a6)
+![제목 없는 동영상 - Clipchamp로 제작 (3) (1)](https://github.com/user-attachments/assets/8f83a0f7-19d0-4c19-80b7-dbe60b71ee86)
 
 ## ScreenShoot
 **메인페이지 + 로그인**
